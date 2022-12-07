@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669824855 source:c:\users\98914\documents\projects\7\rond(5)\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

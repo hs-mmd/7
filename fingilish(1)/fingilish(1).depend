@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669793250 source:c:\users\98914\documents\projects\7\fingilish(1)\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
